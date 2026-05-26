@@ -71,9 +71,9 @@ I am in the final stretch of my AI Engineering degree at the **Escuela Superior 
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JesusCarramza&show_icons=true&theme=dark&hide_border=true)](https://github.com/JesusCarramza)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=JesusCarramza&show_icons=true&theme=dark&hide_border=true)](https://github.com/JesusCarramza)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JesusCarramza&layout=compact&theme=dark&hide_border=true)](https://github.com/JesusCarramza)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=JesusCarramza&layout=compact&theme=dark&hide_border=true)](https://github.com/JesusCarramza)
 
 </div>
 
@@ -84,7 +84,7 @@ Feel free to contact me through any of the following platforms:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jes%C3%BAs-eduardo-carranza-mercado-79026b327/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardo.carranza.mercado@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=eduardo.carranza.mercado@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JesusCarramza)
 
 </div>
