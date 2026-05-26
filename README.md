@@ -70,12 +70,11 @@ I am in the final stretch of my AI Engineering degree at the **Escuela Superior 
 ## 📊 GitHub Statistics
 
 <div align="center">
-    <a href="https://github.com/JesusCarramza">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JesusCarramza&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/JesusCarramza">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusCarramza&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-    </a>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JesusCarramza&show_icons=true&theme=dark&hide_border=true)](https://github.com/JesusCarramza)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JesusCarramza&layout=compact&theme=dark&hide_border=true)](https://github.com/JesusCarramza)
+
 </div>
 
 ## 📬 Contact
