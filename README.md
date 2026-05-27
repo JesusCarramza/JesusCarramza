@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there, I'm Jesús
+# 👋 Hi there, I'm Jesús Carranza
 ### AI Engineering Student & Software Developer
 
 *Building intelligent systems with modular architectures, clean code, and real-world AI integration.*
