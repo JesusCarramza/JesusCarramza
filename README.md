@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there, I'm Jesús
+# 👋 Hi there, I'm Jesús Carranza
 ### AI Engineering Student & Software Developer
 
 *Building intelligent systems with modular architectures, clean code, and real-world AI integration.*
@@ -67,21 +67,7 @@ I am in the final stretch of my AI Engineering degree at the **Escuela Superior 
 | 🧬 **[Bioinspired-Algorithms](https://github.com/JesusCarramza/Bioinspired-Algorithms)** | Comprehensive collection of nature-inspired AI algorithms (Genetic, PSO, ACO, Evolutionary Computing). | Python, DEAP, GPLearn | 🟡 Ongoing |
 | 🖼️ **[DIP Toolkit](https://github.com/JesusCarramza/DIP-Toolkit)** | Modular Digital Image Processing suite with comprehensive filter library and visual interface. | Python, OpenCV, Tkinter | 🔵 Ready |
 
-## 📊 GitHub Statistics
 
-<div align="center">
-  
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=JesusCarramza&show_icons=true&theme=dark&hide_border=true)](https://github.com/JesusCarramza)
-
-</div>
-
-## 💻 Lenguajes Principales
-
-<div align="center">
-
-[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=JesusCarramza&layout=donut&theme=dark&hide_border=true&langs_count=8&count_private=true)](https://github.com/JesusCarramza)
-
-</div>
 
 ## 🔥 Racha de Commits
 
