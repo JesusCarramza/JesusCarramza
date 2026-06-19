@@ -83,6 +83,14 @@ I am in the final stretch of my AI Engineering degree at the **Escuela Superior 
 
 </div>
 
+## 🔥 Racha de Commits
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=JesusCarramza&theme=dark&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&ring=ff6b35&fire=ff6b35&currStreakLabel=ff6b35)](https://git.io/streak-stats)
+
+</div>
+
 ## 📬 Contact me
 
 <div align="center">
